@@ -10,6 +10,7 @@ docX is for those who *prefer to use a desktop app for managing contacts*. More 
 == Summary of Contributions
 
 *Major enhancement 1:* add, list, delete, edit, search
+
 ** What does it do?
 ** Add a patient with the specified parameters.
 ** List all the patients in the record.
@@ -20,6 +21,7 @@ docX is for those who *prefer to use a desktop app for managing contacts*. More 
 *Minor enhancement:* User interface display of patient list
 
 **Other contributions: (including but not limited to)
+
 ** Created Gender and Age class with the respective Regex_Validation to be used by Patients and Doctors.
 ** Provided non-trivial PRs comment at [link]
 ** Incorporated all external code checkers including: Travis, AppVeyor, Coverall, Netlify and Reposense
