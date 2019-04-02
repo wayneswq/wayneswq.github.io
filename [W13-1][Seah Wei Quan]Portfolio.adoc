@@ -4,12 +4,12 @@
 
 == Overview
 
-docX is for those who *prefer to use a desktop app for managing contacts*. More importantly, docX is *optimized for those who prefer to work with a Command Line Interface* (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, docX can get your contact management tasks done faster than traditional GUI apps. Interested? Jump to the <<Quick Start>> to get started. Enjoy!
+docX is for those who *prefer to use a desktop app for managing contacts*. More importantly, docX is *optimized for those who prefer to work with a Command Line Interface* (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, docX can get your contact management tasks done faster than traditional GUI apps.
 
 
 == Summary of Contributions
 
-* Major enhancement 1: add, list, delete, edit, search
+*Major enhancement 1:* add, list, delete, edit, search
 ** What does it do?
 ** Add a patient with the specified parameters.
 ** List all the patients in the record.
@@ -17,7 +17,7 @@ docX is for those who *prefer to use a desktop app for managing contacts*. More 
 ** Edit an exisiting patient.
 ** 2 ways to search for a patient. Through name and tags.
 
-* Minor enhancement : User interface display of patient list
+*Minor enhancement:* User interface display of patient list
 
 **Other contributions: (including but not limited to)
 ** Created Gender and Age class with the respective Regex_Validation to be used by Patients and Doctors.
