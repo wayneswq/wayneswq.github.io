@@ -1,0 +1,29 @@
+= Seah Wei Quan - Project Portfolio
+
+== Project - DocX
+
+== Overview
+
+docX is for those who *prefer to use a desktop app for managing contacts*. More importantly, docX is *optimized for those who prefer to work with a Command Line Interface* (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, docX can get your contact management tasks done faster than traditional GUI apps. Interested? Jump to the <<Quick Start>> to get started. Enjoy!
+
+
+== Summary of Contributions
+
+**Major enhancement 1:* add, list, delete, edit, search
+* What does it do?
+* Add a patient with the specified parameters.
+* List all the patients in the record.
+* Deletes a patient from the record.
+* Edit an exisiting patient.
+* 2 ways to search for a patient. Through name and tags.
+
+**Minor enhancement :* User interface display of patient list
+
+**Other contributions:* (including but not limited to)
+* Created Gender and Age class with the respective Regex_Validation to be used by Patients and Doctors.
+* Provided non-trivial PRs comment at [link]
+* Incorporated all external code checkers including: Travis, AppVeyor, Coverall, Netlify and Reposense
+
+** Contribution to the User Guide
+
+** Contribution to the Developer Guide
